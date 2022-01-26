@@ -1,12 +1,10 @@
 ### Hi there 👋
 
 - 🌱 I’m currently practicing Typescript and Chakra UI
-- 🌱 I’m thinking of learning React Native, Next.JS, and GraphQL
-- 🤔 I’m looking for SWE opportunities in the Bay Area
-- 😄 Pronouns: she/her/hers
-- 📫 How to reach me: nhumaix3@gmail.com
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhu-mai/)
+- 🤨 I’m thinking of learning React Native, Next.JS, and GraphQL
+- 🧐 I’m looking for SWE opportunities in the Bay Area
+- 💁🏻‍♀️ Pronouns: she/her/hers
+- 📫 How to reach me: nhumaix3@gmail.com or LinkedIn: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhu-mai/)
 
 
 ### Tech Stack
