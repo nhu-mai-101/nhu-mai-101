@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently practicing Typescript and Chakra UI
-- 🌱 I’m thinking of learning React Native and Next.JS
+- 🌱 I’m thinking of learning React Native, Next.JS, and GraphQL
 - 🤔 I’m looking for SWE opportunities in the Bay Area
 - 😄 Pronouns: she/her/hers
 - 📫 How to reach me: nhumaix3@gmail.com
