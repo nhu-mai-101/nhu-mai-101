@@ -4,7 +4,7 @@
 - 🤨 I’m thinking of learning React Native, Next.JS, and GraphQL
 - 🧐 I’m looking for SWE opportunities in the Bay Area
 - 💁🏻‍♀️ Pronouns: she/her/hers
-- 📫 How to reach me: nhumaix3@gmail.com or [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhu-mai/)
+- 📫 How to reach me: nhumaix3@gmail.com or [![LinkedIn](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/nhu-mai/)
 
 
 ### Tech Stack
