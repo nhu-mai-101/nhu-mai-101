@@ -2,7 +2,6 @@
 
 - 😅 I’m currently practicing LeetCode 
 - 🤨 I’m thinking of learning React Native, Next.JS, and GraphQL
-- 👀 I’m looking for SWE opportunities in the Bay Area
 - 💁🏻‍♀️ Pronouns: she/her/hers
 - 📫 How to reach me:
 
