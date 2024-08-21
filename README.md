@@ -1,7 +1,7 @@
 ### Hey, I'm Nhu 👋
 
-- 😅 I’m currently practicing LeetCode 
-- 🤨 I’m thinking of learning React Native, Next.JS, and GraphQL
+- 🙃 I’m currently laid off and looking for new opportunities
+- 🤨 I’m thinking of learning mobile development
 - 💁🏻‍♀️ Pronouns: she/her/hers
 - 📫 How to reach me:
 
